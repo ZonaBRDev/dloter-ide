@@ -18,7 +18,7 @@ Ainda em testes, está versão não está lançada no momento.
 
 ### Lembrando que ainda não está disponibilizado
 
-***TESTE REALIZADO NESTE SITE [AQUI](replit.com)***
+***TESTE REALIZADO NESTE SITE [AQUI](https://replit.com)***
 
 **Clone este repositório**
 ``$ git clone https://github.com/ZonaBRDev/dloter-ide``
