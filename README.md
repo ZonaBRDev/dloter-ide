@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ZonaBRDev/dloter-max"><img src="https://github.com/ntkme/github-buttons/workflows/build/badge.svg"></a></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-0394fc.svg"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0-0394fc.svg"></a>
 </p>
 
 
