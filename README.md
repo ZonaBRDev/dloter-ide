@@ -69,5 +69,5 @@ D::::::::::::DDD    l::::::l oo:::::::::::oo         tt:::::::::::tt  ee::::::::
 DDDDDDDDDDDDD       llllllll   ooooooooooo             ttttttttttt      eeeeeeeeeeeeee   rrrrrrr            
                                                                                                             
                                                                         
-Inderux Cloud Services @2021 - Todos direitos reservados a Inderux - Licença GNU V3 / MIT License                                    
+Inderux Cloud Services @2021 - Todos direitos reservados a Inderux - Licença CC0                                    
 ```
